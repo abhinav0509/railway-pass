@@ -1,0 +1,38 @@
+[
+  {
+    "id": 212121,
+    "trainname": "Rajdhani Express",
+    "category": "Superfast/Non Stop",
+    "weeklyruns": ["Mon", "Wed", "Sat"],
+    "classes": ["Sleeper", "3AC", "2AC"],
+    "price": 3000,
+    "duration": "16 Hrs",
+    "totalkms": "1397 Kms",
+    "departuretime": "5:00 PM",
+    "arrivaltime": "8:40 AM"
+  },
+  {
+    "id": 212141,
+    "trainname": "MMCT Duronto",
+    "category": "Superfast",
+    "weeklyruns": ["Tue", "Sat"],
+    "trainclasses": ["Sleeper", "3AC", "2AC"],
+    "price": 1500,
+    "duration": "17 Hrs",
+    "totalkms": "1384 Kms",
+    "departuretime": "11:25 PM",
+    "arrivaltime": "4:15 PM"
+  },
+  {
+    "id": 512121,
+    "trainname": "MMCT TEJAS RAJ",
+    "category": "Superfast/Non Stop",
+    "weeklyruns": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "classes": ["Sleeper", "3AC", "2AC"],
+    "price": 2500,
+    "duration": "16 Hrs",
+    "totalkms": "1384 Kms",
+    "departuretime": "4:25 PM",
+    "arrivaltime": "8:15 AM"
+  }
+]
